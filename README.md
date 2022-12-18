@@ -1,5 +1,6 @@
 ## hdzero-tooling
 
+* HDZero Goggle shell
 * HDZero VRX shell
 * HDZero VTX Race V2 heat sink
 
