@@ -9,6 +9,7 @@ STEP (aka ISO 10303) files (that can be imported in most CAD softwares) for:
 * HDZero VRX Shell
 * HDZero Box Pro
 * HDZero Goggle 20220909
+* HDZero Goggle 2 20260801
 * HDZero Eco Camera
 * HDZero LUX Camera
 * HDZero Micro V2
